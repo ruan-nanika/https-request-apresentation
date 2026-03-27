@@ -753,9 +753,7 @@ Se o `session_id` fosse um número sequencial (`session_id=42`), um atacante pod
 
 Este repositório tem um vídeo no YouTube explicando todo esse fluxo em inglês, com diagramas visuais:
 
-> 🔗 **[How HTTPS Works — From Keystroke to Encrypted Bits and Back](https://www.youtube.com/)**  
-> *(adicionar link aqui após publicar)*
+> 🔗 **[How HTTPS Works — From Keystroke to Encrypted Bits and Back]**  
+> (https://youtu.be/R40iVkwFufQ?si=mnafq_eFOinNebQo)*
 
 ---
-
-*Feito com 💙 como parte do wrap-up de Redes de Computadores.*
